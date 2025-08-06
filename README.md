@@ -8,10 +8,11 @@ Wow & How is an offline, on-device iOS/iPadOS application designed to foster a h
 ### Notebook Description ### 
 
 **Basic_Prompt_Engg** - This notebook uses the base Gemma 3n model and then applies prompt engineering depending on the input age group to provide response. In the end it generates a fun fact and MCQ based question, in the language agreeable to that age group and based on the subject of their choice.
-**Generate_training_json** - Converts the raw docs file into json format more suited for LLM training.
-**data_cleaning** - 
-**fine_tune** - Exploratory fine tuning of the model.
-**testing_gemma_3n** - 
+1. **Generate_training_json** - Converts the raw docs file into json format more suited for LLM training.
+2. **data_cleaning** - 
+3. **fine_tune** - Exploratory fine tuning of the model.
+4. **testing_gemma_3n** - 
 
-**fine_tune_and_gguf_2b** -
-**testing-gguf** - 
+1. **fine_tune_and_gguf_2b** -
+2. **testing-gguf** - 
+
